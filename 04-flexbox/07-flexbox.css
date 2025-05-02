@@ -3,7 +3,14 @@
 }
 
 /* Flex Container 1 */
-
+.flex-container-1 .flex-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: flex-start;
+  justify-content: center;
+}
 /* Flex Container 2 */
 
 /* Flex Container 3 */
