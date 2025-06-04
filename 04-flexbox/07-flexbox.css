@@ -1,30 +1,62 @@
 .flex-container {
   background-color: rgb(190, 190, 231);
+  display: flex;
 }
 
 /* Flex Container 1 */
-.flex-container-1 .flex-item {
-  display: flex;
+.flex-container-1 {
   flex-direction: row;
   flex-wrap: wrap;
-  align-content: flex-start;
-  align-items: flex-start;
   justify-content: center;
 }
 /* Flex Container 2 */
-
+.flex-container-2 {
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+}
 /* Flex Container 3 */
-
+.flex-container-3 {
+  height: 400px;
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
 /* use height: 400px; on the container */
 
 /* Flex Container 4 */
-
+.flex-container-4 {
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+}
 /* Flex Container 5 */
-
+.flex-container-5 {
+  align-items: center;
+  text-align: center;
+}
+.flex-container-5 .item1 {
+  height: 200px;
+}
+.flex-container-5 .item2 {
+  height: 300px;
+}
+.flex-container-5 .item3 {
+  height: 200px;
+}
+.flex-container-5 .item6 {
+  height: 200px;
+}
+.flex-container-5 .item8 {
+  height: 300px;
+}
 /* Flex Container 6 */
-
+.flex-container-6 {
+  height: 300px;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
 .flex-container-6 .flex-item {
-  width: 400px;
+  width: 200px;
 }
 
 /* use height: 300px; on the container */
