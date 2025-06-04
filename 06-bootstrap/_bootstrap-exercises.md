@@ -22,13 +22,13 @@ Recreate the layout below using Boostrap grid.
 
 Recreate the layout below using Boostrap grid and the media queries available with the grid classes.
 
-<img src="../_assets/bootstrap-exercises/bootstrap-ex03-grid-01.png" height=200 alt="screenshot of a grid layout">
-<img src="../_assets/bootstrap-exercises/bootstrap-ex03-grid-02.png" height=200 alt="screenshot of a grid layout">
-<img src="../_assets/bootstrap-exercises/bootstrap-ex03-grid-03.png" height=200 alt="screenshot of a grid layout">
+<img src="../_assets/bootstrap-exercises/bootstrap-ex03-grid-01.png" height=400 alt="screenshot of a grid layout">
+<img src="../_assets/bootstrap-exercises/bootstrap-ex03-grid-02.png" height=400 alt="screenshot of a grid layout">
+<img src="../_assets/bootstrap-exercises/bootstrap-ex03-grid-03.png" height=400 alt="screenshot of a grid layout">
 
 ## <a id="ex04"></a> Exercise 04 - Modal
 
 Recreate the layout below using Boostrap modal classes.
 
-<img src="../_assets/bootstrap-exercises/bootstrap-ex04-modal-01.png" height=150 alt="screenshot of a layout">
-<img src="../_assets/bootstrap-exercises/bootstrap-ex04-modal-02.png" height=150 alt="screenshot of a layout">
+<img src="../_assets/bootstrap-exercises/bootstrap-ex04-modal-01.png" height=400 alt="screenshot of a layout">
+<img src="../_assets/bootstrap-exercises/bootstrap-ex04-modal-02.png" height=400 alt="screenshot of a layout">
